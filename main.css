@@ -1,0 +1,359 @@
+.highlight {
+  margin-bottom: 15px;
+}
+
+/** * Syntax highlighting styles */
+
+.highlight {
+  background: #fff;
+}
+
+.highlighter-rouge .highlight {
+  background: #eef;
+}
+
+.highlight .c {
+  color: #998;
+  font-style: italic;
+}
+
+.highlight .err {
+  color: #a61717;
+  background-color: #e3d2d2;
+}
+
+.highlight .k {
+  font-weight: bold;
+}
+
+.highlight .o {
+  font-weight: bold;
+}
+
+.highlight .cm {
+  color: #998;
+  font-style: italic;
+}
+
+.highlight .cp {
+  color: #999;
+  font-weight: bold;
+}
+
+.highlight .c1 {
+  color: #998;
+  font-style: italic;
+}
+
+.highlight .cs {
+  color: #999;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.highlight .gd {
+  color: #000;
+  background-color: #fdd;
+}
+
+.highlight .gd .x {
+  color: #000;
+  background-color: #faa;
+}
+
+.highlight .ge {
+  font-style: italic;
+}
+
+.highlight .gr {
+  color: #a00;
+}
+
+.highlight .gh {
+  color: #999;
+}
+
+.highlight .gi {
+  color: #000;
+  background-color: #dfd;
+}
+
+.highlight .gi .x {
+  color: #000;
+  background-color: #afa;
+}
+
+.highlight .go {
+  color: #888;
+}
+
+.highlight .gp {
+  color: #555;
+}
+
+.highlight .gs {
+  font-weight: bold;
+}
+
+.highlight .gu {
+  color: #aaa;
+}
+
+.highlight .gt {
+  color: #a00;
+}
+
+.highlight .kc {
+  font-weight: bold;
+}
+
+.highlight .kd {
+  font-weight: bold;
+}
+
+.highlight .kp {
+  font-weight: bold;
+}
+
+.highlight .kr {
+  font-weight: bold;
+}
+
+.highlight .kt {
+  color: #458;
+  font-weight: bold;
+}
+
+.highlight .m {
+  color: #099;
+}
+
+.highlight .s {
+  color: #d14;
+}
+
+.highlight .na {
+  color: #008080;
+}
+
+.highlight .nb {
+  color: #0086B3;
+}
+
+.highlight .nc {
+  color: #458;
+  font-weight: bold;
+}
+
+.highlight .no {
+  color: #008080;
+}
+
+.highlight .ni {
+  color: #800080;
+}
+
+.highlight .ne {
+  color: #900;
+  font-weight: bold;
+}
+
+.highlight .nf {
+  color: #900;
+  font-weight: bold;
+}
+
+.highlight .nn {
+  color: #555;
+}
+
+.highlight .nt {
+  color: #000080;
+}
+
+.highlight .nv {
+  color: #008080;
+}
+
+.highlight .ow {
+  font-weight: bold;
+}
+
+.highlight .w {
+  color: #bbb;
+}
+
+.highlight .mf {
+  color: #099;
+}
+
+.highlight .mh {
+  color: #099;
+}
+
+.highlight .mi {
+  color: #099;
+}
+
+.highlight .mo {
+  color: #099;
+}
+
+.highlight .sb {
+  color: #d14;
+}
+
+. .highlight .sc {
+  color: #d14;
+}
+
+.highlight .sd {
+  color: #d14;
+}
+
+.highlight .s2 {
+  color: #d14;
+}
+
+.highlight .se {
+  color: #d14;
+}
+
+.highlight .sh {
+  color: #d14;
+}
+
+.highlight .si {
+  color: #d14;
+}
+
+.highlight .sx {
+  color: #d14;
+}
+
+.highlight .sr {
+  color: #009926;
+}
+
+.highlight .s1 {
+  color: #d14;
+}
+
+.highlight .ss {
+  color: #990073;
+}
+
+.highlight .bp {
+  color: #999;
+}
+
+.highlight .vc {
+  color: #008080;
+}
+
+.highlight .vg {
+  color: #008080;
+}
+
+.highlight .vi {
+  color: #008080;
+}
+
+.highlight .il {
+  color: #099;
+}
+
+h1 {
+  font-family: 'Press Start 2P', century;
+  text-shadow: 2px 2px 4px black;
+  font-size: 65px;
+  padding-left: 3%;
+}
+.arrows
+{
+    font-size: 65px;
+}
+
+.container-header{
+  margin-top: 10%;
+}
+
+.menu
+{
+    background-color: none;
+}
+.nav-wrapper
+{
+    background-color: none;
+}
+nav .menu
+{
+    display: flex;
+    justify-content: flex-end;
+
+}
+/* .contacto
+{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    /* padding-top: 30px;
+} */
+
+.circle1 {
+    display: block;
+    width: 150px;
+    height: 150px;
+    /* margin-left: auto; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-border-radius: 99em;
+    -moz-border-radius: 99em;
+    border-radius: 99em;
+    border: 5px solid ;
+    box-shadow: 0 3px 2px rgba(0, 0, 0, 0.3);
+  }
+
+  /* #contact
+  {
+      background-color: #0086B3;
+  } */
+.page-footer
+{
+    background-color: #26a69a;
+}
+.footer-copyright i, p
+{
+        color:white;
+}
+
+#blog
+{
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+    border: solid rgba(42, 49, 60, 0.84);
+    border-radius: 12px;
+    padding: 30px;
+}
+h3
+{
+    margin-bottom: 50px;
+}
+#blog h3
+{
+    margin-bottom: 100px;
+}
+
+#contact .card.medium {
+    height: 433px;
+}
+
+.container-header .imagen-header
+{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    position: relative;
+}

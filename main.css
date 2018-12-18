@@ -269,6 +269,14 @@ h1 {
   font-size: 65px;
   padding-left: 3%;
 }
+
+@media screen and (max-width: 530px) {
+  h1 {
+    font-size: 40px;
+    text-transform: full-width;
+    padding-top: 20%;
+  }
+}
 .arrows
 {
     font-size: 65px;
@@ -292,13 +300,8 @@ nav .menu
     justify-content: flex-end;
 
 }
-/* .contacto
-{
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    /* padding-top: 30px;
-} */
+
+
 
 .circle1 {
     display: block;
@@ -315,10 +318,6 @@ nav .menu
     box-shadow: 0 3px 2px rgba(0, 0, 0, 0.3);
   }
 
-  /* #contact
-  {
-      background-color: #0086B3;
-  } */
 .page-footer
 {
     background-color: #26a69a;
@@ -327,6 +326,7 @@ nav .menu
 {
         color:white;
 }
+
 
 #blog
 {
